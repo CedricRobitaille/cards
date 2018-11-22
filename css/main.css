@@ -21,8 +21,8 @@ html {
   margin: 0 .5em 1em;
   max-width: 20em;
   padding: 1em;
-  background-color: #713837;
-  border: 3px solid #595652;
+  background-color: #fff;
+  border: 3px solid #e2e2e2;
   border-radius: 10px;
   text-align: left;
 }
